@@ -20,10 +20,6 @@ npm install && npm run dev
 ```
 
 create .env for database connection 
-.env
-
-
-
 
 
 start server and run project 
